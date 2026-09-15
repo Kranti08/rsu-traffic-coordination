@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+ <copy file="grid.net.xml"/>
+ <copy file="grid_heavy.rou.xml"/>
+ <copy file="grid_heavy.sumocfg" type="config"/>
+</launch>

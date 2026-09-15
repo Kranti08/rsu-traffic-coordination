@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+ <copy file="grid_tls_actuated.net.xml"/>
+ <copy file="routes_s1.rou.xml"/>
+ <copy file="grid_s1_act.sumocfg" type="config"/>
+</launch>

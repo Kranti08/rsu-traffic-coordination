@@ -1,0 +1,10 @@
+<configuration>
+ <input>
+  <net-file value="grid_tls.net.xml"/>
+  <route-files value="routes_s1.rou.xml"/>
+ </input>
+ <time><begin value="0"/><end value="600"/></time>
+ <output>
+  <tripinfo-output value="/Users/kranti/Desktop/thesis_stimulation/artery/extern/veins/examples/grid5x5/tripinfo_long_s1.xml"/>
+ </output>
+</configuration>
